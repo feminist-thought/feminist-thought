@@ -1,4 +1,4 @@
-# Recommended reading
+## Recommended reading
 
 ### Fiction
 - [Americanah by Chimamanda Ngozi Adichie](https://www.goodreads.com/book/show/15796700-americanah)
@@ -24,6 +24,9 @@
 - [Against Our Will: Men, Women and Rape by Susan Brownmiller](https://www.goodreads.com/book/show/103180.Against_Our_Will)
 - [Black Feminist Thought: Knowledge, Consciousness, and the Politics of Empowerment by Patricia Hill Collins](https://www.goodreads.com/book/show/60931.Kindred)
 - [Gyn/Ecology: The Metaethics of Radical Feminism by Mary Daly](https://www.goodreads.com/book/show/643679.Gyn_Ecology)
+- [Women, Race & Class by Angela Y. Davis](https://www.goodreads.com/book/show/635635.Women_Race_Class)
+- [Pornland: How Porn Has Hijacked Our Sexuality by Gail Dines](https://www.goodreads.com/book/show/7621071-pornland)
+- [Heartbreak: The Political Memoir of a Feminist Militant by Andrea Dworkin](https://www.goodreads.com/book/show/209327.Heartbreak)
 
 [![Why Does He Do That? by Lundy Bancroft](https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1479651155l/224552._SX318_.jpg){:height="200"}](https://www.goodreads.com/book/show/224552.Why_Does_He_Do_That_)
 [![The Second Sex by Simone de Beauvoir](https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1327978178l/457264.jpg){:height="200"}](https://www.goodreads.com/book/show/457264.The_Second_Sex)
@@ -32,4 +35,7 @@
 [![Against Our Will: Men, Women and Rape by Susan Brownmiller](https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1474573383l/103180._SY475_.jpg){:height="200"}](https://www.goodreads.com/book/show/103180.Against_Our_Will)
 [![Black Feminist Thought: Knowledge, Consciousness, and the Politics of Empowerment by Patricia Hill Collins](https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1388468213l/353598.jpg){:height="200"}](https://www.goodreads.com/book/show/353598.Black_Feminist_Thought)
 [![Gyn/Ecology: The Metaethics of Radical Feminism by Mary Daly](https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1320392161l/643679.jpg){:height="200"}](https://www.goodreads.com/book/show/643679.Gyn_Ecology)
+[![Women, Race & Class by Angela Y. Davis](https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1359985746l/635635.jpg){:height="200"}](https://www.goodreads.com/book/show/635635.Women_Race_Class)
+[![Pornland: How Porn Has Hijacked Our Sexuality by Gail Dines](https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1320477253l/7621071.jpg){:height="200"}](https://www.goodreads.com/book/show/7621071-pornland)
+[![Heartbreak: The Political Memoir of a Feminist Militant by Andrea Dworkin](https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1348701503l/209327.jpg){:height="200"}](https://www.goodreads.com/book/show/209327.Heartbreak)
 
