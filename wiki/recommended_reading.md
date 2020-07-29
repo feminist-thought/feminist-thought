@@ -1,3 +1,7 @@
+---
+redirect_from: "/"
+---
+
 ## Recommended reading
 
 ### Fiction
