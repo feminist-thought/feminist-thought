@@ -6,6 +6,8 @@
 
 > I write however with a broken tool, a language which is sexist and discriminatory to its core. I try to make the distinctions, not “history” as the whole human story, not “man” as the generic term for the species, not “manhood” as the synonym for courage, dignity, and strength. But I have not been successful in reinventing the language.
 
+> We are fragmented, anguished - either men or women, bound by the very fact of a particularized body to a role which is annihilating, totalitarian, which forbids us any real self-becoming or self-realization.
+
 > For a woman to be good, she must be dead, or as close to it as possible. Catatonia is the good woman's most winning quality.
 
 Woman Hating by Andrea Dworkin
