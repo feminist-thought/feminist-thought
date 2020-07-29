@@ -7,6 +7,7 @@
 - [The Year of the Flood by Margaret Atwood](https://www.goodreads.com/book/show/6080337-the-year-of-the-flood)
 - [Kindred by Octavia E. Butler](https://www.goodreads.com/book/show/60931.Kindred)
 - [Nervous Conditions by Tsitsi Dangarembga](https://www.goodreads.com/book/show/158674.Nervous_Conditions)
+- [Mercy by Andrea Dworkin](https://www.goodreads.com/book/show/377162.Mercy)
 
 [![Americanah by Chimamanda Ngozi Adichie](https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1356654499l/15796700.jpg){:height="200"}](https://www.goodreads.com/book/show/15796700-americanah)
 [![Alias Grace by Margaret Atwood](https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1298545436l/72579.jpg){:height="200"}](https://www.goodreads.com/book/show/72579.Alias_Grace)
@@ -14,6 +15,7 @@
 [![The Year of the Flood by Margaret Atwood](https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1327906873l/6080337.jpg){:height="200"}](https://www.goodreads.com/book/show/6080337-the-year-of-the-flood)
 [![Kindred by Octavia E. Butler](https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1339423248l/60931.jpg){:height="200"}](https://www.goodreads.com/book/show/60931.Kindred)
 [![Nervous Conditions by Tsitsi Dangarembga](https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1369859435l/158674.jpg){:height="200"}](https://www.goodreads.com/book/show/158674.Nervous_Conditions)
+[![Mercy by Andrea Dworkin](https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1174293226l/377162._SX318_.jpg){:height="200"}](https://www.goodreads.com/book/show/377162.Mercy)
 
 
 ### Non-fiction
@@ -30,7 +32,7 @@
 - [Intercourse by Andrea Dworkin](https://www.goodreads.com/book/show/163265.Intercourse)
 - [Letters from a War Zone by Andrea Dworkin](https://www.goodreads.com/book/show/209335.Letters_from_a_War_Zone)
 - [Life and Death by Andrea Dworkin](https://www.goodreads.com/book/show/561861.Life_and_Death)
-- [Mercy by Andrea Dworkin](https://www.goodreads.com/book/show/377162.Mercy)
+
 
 
 [![Why Does He Do That? by Lundy Bancroft](https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1479651155l/224552._SX318_.jpg){:height="200"}](https://www.goodreads.com/book/show/224552.Why_Does_He_Do_That_)
@@ -46,7 +48,7 @@
 [![Intercourse by Andrea Dworkin](https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1557673711l/163265.jpg){:height="200"}](https://www.goodreads.com/book/show/163265.Intercourse)
 [![Letters from a War Zone by Andrea Dworkin](https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1385070114l/209335.jpg){:height="200"}](https://www.goodreads.com/book/show/209335.Letters_from_a_War_Zone)
 [![Life and Death by Andrea Dworkin](https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1348494644l/561861.jpg){:height="200"}](https://www.goodreads.com/book/show/561861.Life_and_Death)
-[![Mercy by Andrea Dworkin](https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1174293226l/377162._SX318_.jpg){:height="200"}](https://www.goodreads.com/book/show/377162.Mercy)
+
 
 
 
