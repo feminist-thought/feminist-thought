@@ -1,5 +1,15 @@
 # Quotes
 
+## Andrea Dworkin
+
+> When we women find the courage to defend ourselves, to take a stand against brutality and abuse, we are violating every notion of womanhood we have ever been taught. The way to freedom for women is bound to be torturous for that reason alone.
+
+> I write however with a broken tool, a language which is sexist and discriminatory to its core. I try to make the distinctions, not “history” as the whole human story, not “man” as the generic term for the species, not “manhood” as the synonym for courage, dignity, and strength. But I have not been successful in reinventing the language.
+
+> For a woman to be good, she must be dead, or as close to it as possible. Catatonia is the good woman's most winning quality.
+
+Woman Hating by Andrea Dworkin
+
 ## Virginia Woolf
 
 > Why did men drink wine and women water? Why was one sex so prosperous and the other so poor? What effect has poverty on fiction? What conditions are necessary for the creations of work of art?
