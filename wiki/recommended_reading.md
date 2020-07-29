@@ -5,7 +5,8 @@
 - [The Year of the Flood by Margaret Atwood](https://www.goodreads.com/book/show/6080337-the-year-of-the-flood)
 
 ### Non-fiction
-- [Why Does He Do That?: Inside the Minds of Angry and Controlling Men by Lundy Bancroft](https://www.goodreads.com/book/show/224552.Why_Does_He_Do_That_)
+- [Why Does He Do That? by Lundy Bancroft](https://www.goodreads.com/book/show/224552.Why_Does_He_Do_That_)
+- [The Second Sex by Simone de Beauvoir](https://www.goodreads.com/book/show/457264.The_Second_Sex)
 
 <p float="left">
   <img src="https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1356654499l/15796700.jpg" height="200" alt="Americanah by Chimamanda Ngozi Adichie"/>
