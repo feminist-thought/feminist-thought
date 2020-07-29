@@ -9,4 +9,10 @@
 ### Non-fiction
 - [Why Does He Do That? by Lundy Bancroft](https://www.goodreads.com/book/show/224552.Why_Does_He_Do_That_)
 - [The Second Sex by Simone de Beauvoir](https://www.goodreads.com/book/show/457264.The_Second_Sex)
+- [The Gift of Fear by Gavin de Becker](https://www.goodreads.com/book/show/56465.The_Gift_of_Fear)
+- [The Pimping of Prostitution by Julie Bindel](https://www.goodreads.com/book/show/34428143-the-pimping-of-prostitution)
 
+[![Why Does He Do That? by Lundy Bancroft](https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1479651155l/224552._SX318_.jpg){:height="200"}](https://www.goodreads.com/book/show/224552.Why_Does_He_Do_That_)
+[![The Second Sex by Simone de Beauvoir](https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1327978178l/457264.jpg){:height="200"}](https://www.goodreads.com/book/show/457264.The_Second_Sex)
+[![The Gift of Fear by Gavin de Becker](https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1348829921l/56465.jpg){:height="200"}](https://www.goodreads.com/book/show/56465.The_Gift_of_Fear)
+[![The Pimping of Prostitution by Julie Bindel](https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1491403947l/34428143._SX318_.jpg){:height="200"}](https://www.goodreads.com/book/show/34428143-the-pimping-of-prostitution)
