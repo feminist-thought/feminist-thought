@@ -16,4 +16,6 @@
 
 > Any woman born with a great gift in the sixteenth century would certainly have gone crazed, shot herself, or ended her days in some lonely cottage outside the village, half witch, half wizard, feared and mocked at.  For it needs little skill in psychology to be sure that a highly gifted girl who had tried to use her gift for poetry would have been so thwarted and hindered by other people, so tortured and pulled asunder by her own contrary instincts, that she must have lost her health and sanity to a certainty.
 
+> It is fairly evident that even in the nineteenth century a woman was not encouraged to be an artist. On the contrary, she was snubbed, slapped, lectured and exhorted. Her mind must have been strained and her vitality lowered by the need of opposing this, of disproving that. For here again we come within range of that very interesting and obscure masculine complex which has had so much influence upon the woman's movement; that deep-seated desire, not so much that she shall be inferior as that he shall be superior, which plants him wherever one looks, not only in front of the arts, but barring the way to politics too, even when the risk to himself seems infinitesimal and the suppliant humble and devoted.
+
 A Room of One's Own by Virginia Woolf
