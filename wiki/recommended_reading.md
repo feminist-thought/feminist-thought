@@ -27,6 +27,11 @@
 - [Women, Race & Class by Angela Y. Davis](https://www.goodreads.com/book/show/635635.Women_Race_Class)
 - [Pornland: How Porn Has Hijacked Our Sexuality by Gail Dines](https://www.goodreads.com/book/show/7621071-pornland)
 - [Heartbreak: The Political Memoir of a Feminist Militant by Andrea Dworkin](https://www.goodreads.com/book/show/209327.Heartbreak)
+- [Intercourse by Andrea Dworkin](https://www.goodreads.com/book/show/163265.Intercourse)
+- [Letters from a War Zone by Andrea Dworkin](https://www.goodreads.com/book/show/209335.Letters_from_a_War_Zone)
+- [Life and Death by Andrea Dworkin](https://www.goodreads.com/book/show/561861.Life_and_Death)
+- [Mercy by Andrea Dworkin](https://www.goodreads.com/book/show/377162.Mercy)
+
 
 [![Why Does He Do That? by Lundy Bancroft](https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1479651155l/224552._SX318_.jpg){:height="200"}](https://www.goodreads.com/book/show/224552.Why_Does_He_Do_That_)
 [![The Second Sex by Simone de Beauvoir](https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1327978178l/457264.jpg){:height="200"}](https://www.goodreads.com/book/show/457264.The_Second_Sex)
@@ -38,4 +43,12 @@
 [![Women, Race & Class by Angela Y. Davis](https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1359985746l/635635.jpg){:height="200"}](https://www.goodreads.com/book/show/635635.Women_Race_Class)
 [![Pornland: How Porn Has Hijacked Our Sexuality by Gail Dines](https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1320477253l/7621071.jpg){:height="200"}](https://www.goodreads.com/book/show/7621071-pornland)
 [![Heartbreak: The Political Memoir of a Feminist Militant by Andrea Dworkin](https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1348701503l/209327.jpg){:height="200"}](https://www.goodreads.com/book/show/209327.Heartbreak)
+[![Intercourse by Andrea Dworkin](https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1557673711l/163265.jpg){:height="200"}](https://www.goodreads.com/book/show/163265.Intercourse)
+[![Letters from a War Zone by Andrea Dworkin](https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1385070114l/209335.jpg){:height="200"}](https://www.goodreads.com/book/show/209335.Letters_from_a_War_Zone)
+[![Life and Death by Andrea Dworkin](https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1348494644l/561861.jpg){:height="200"}](https://www.goodreads.com/book/show/561861.Life_and_Death)
+[![Mercy by Andrea Dworkin](https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1174293226l/377162._SX318_.jpg){:height="200"}](https://www.goodreads.com/book/show/377162.Mercy)
+
+
+
+
 
