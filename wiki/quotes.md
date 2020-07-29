@@ -10,6 +10,8 @@
 
 > For a woman to be good, she must be dead, or as close to it as possible. Catatonia is the good woman's most winning quality.
 
+> We see that powerful women are bad, and that good women are inert. We see that men are always good, no matter what they do, or do not do.
+
 Woman Hating by Andrea Dworkin
 
 ## Virginia Woolf
