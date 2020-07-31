@@ -2,6 +2,12 @@
 
 ## Gavin de Becker
 
+> A woman could offer no greater cooperation to her soon-to-be attacker than to spend her time telling herelf, "But he seems like such a nice man." Yet this is exactly what many people do.
+
+> We must learn and then teach our children that niceness does not equal goodness. Niceness is a decision, a strategy of social interaction; it is not a character trait. People seeking to control others almost always present the image of a nice person in the beginning. 
+
+> Just as rapport-building has a good reputation, explicitness applied by women in this culture has a terrible reputation. A woman who is clear and precise is viewed as cold, or a bitch, or both. A woman is expected, first and foremost, to respond to every communication from a man. And the response is expected to be one of willingness and attentiveness. It is considered attractive if she is a bit uncertain (the opposite of explicit). Women are expected to be warm and open, and in the context of approaches from male strangers, warmth lengthens the encounter, raises his expectations, increases his investment, and, at best, wastes time.
+
 > Declining to hear "no" is a signal that someone is either seeking control or refusing to relinquish it.
 
 > I encourage women to ask other women for help when they need it, and it's likewise safer to accept an offer from a woman than from a man.
