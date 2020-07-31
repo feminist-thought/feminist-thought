@@ -22,7 +22,7 @@
 > 1. It is always in response to something.
 > 2. It always has your best interest at heart.
 
-The Gift of Fear by Gavin de Becker
+[The Gift of Fear by Gavin de Becker](https://www.goodreads.com/book/show/56465.The_Gift_of_Fear)
 
 ## Andrea Dworkin
 
@@ -36,7 +36,7 @@ The Gift of Fear by Gavin de Becker
 
 > We see that powerful women are bad, and that good women are inert. We see that men are always good, no matter what they do, or do not do.
 
-Woman Hating by Andrea Dworkin
+[Woman Hating by Andrea Dworkin](https://www.goodreads.com/book/show/209333.Woman_Hating)
 
 ## Virginia Woolf
 
@@ -56,4 +56,4 @@ Woman Hating by Andrea Dworkin
 
 > It is fairly evident that even in the nineteenth century a woman was not encouraged to be an artist. On the contrary, she was snubbed, slapped, lectured and exhorted. Her mind must have been strained and her vitality lowered by the need of opposing this, of disproving that. For here again we come within range of that very interesting and obscure masculine complex which has had so much influence upon the woman's movement; that deep-seated desire, not so much that she shall be inferior as that he shall be superior, which plants him wherever one looks, not only in front of the arts, but barring the way to politics too, even when the risk to himself seems infinitesimal and the suppliant humble and devoted.
 
-A Room of One's Own by Virginia Woolf
+[A Room of One's Own by Virginia Woolf](https://www.goodreads.com/book/show/18521.A_Room_of_One_s_Own)
