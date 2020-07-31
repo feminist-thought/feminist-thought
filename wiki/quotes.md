@@ -1,5 +1,13 @@
 # Quotes
 
+## Gavin de Becker
+
+> Declining to hear "no" is a signal that someone is either seeking control or refusing to relinquish it.
+
+> I encourage women to ask other women for help when they need it, and it's likewise safer to accept an offer from a woman than from a man.
+
+> Women, particularly in big cities, live in constant warines. Their lives are literally on the line in ways men just don't experience. Ask some man you know, "When is the last time you were concerned or afraid that another person would harm you?" Many men cannot recall an incident within years. Ask a woman the same question and most will give you a recent example or say, "Last night," "Today," or even "Every day."
+
 ## Andrea Dworkin
 
 > When we women find the courage to defend ourselves, to take a stand against brutality and abuse, we are violating every notion of womanhood we have ever been taught. The way to freedom for women is bound to be torturous for that reason alone.
