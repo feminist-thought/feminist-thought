@@ -8,6 +8,14 @@
 
 > Women, particularly in big cities, live in constant warines. Their lives are literally on the line in ways men just don't experience. Ask some man you know, "When is the last time you were concerned or afraid that another person would harm you?" Many men cannot recall an incident within years. Ask a woman the same question and most will give you a recent example or say, "Last night," "Today," or even "Every day."
 
+> Men and women live in different worlds. I don’t remember where I first heard this simple description of one dramatic contrast between the genders, but it is strikingly accurate: At core, men are afraid women will laugh at them, while at core, women are afraid men will kill them.
+
+> Remember, the nicest guy, the guy with no self-serving agenda whatsoever, the one who wants nothing from you, won't approach you at all.
+
+> Trust that what causes alarm probably should, because when it comes to danger, intuition is always right in at least two important ways:
+> 1. It is always in response to something.
+> 2. It always has your best interest at heart.
+
 ## Andrea Dworkin
 
 > When we women find the courage to defend ourselves, to take a stand against brutality and abuse, we are violating every notion of womanhood we have ever been taught. The way to freedom for women is bound to be torturous for that reason alone.
