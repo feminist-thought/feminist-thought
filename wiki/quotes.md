@@ -16,6 +16,8 @@
 > 1. It is always in response to something.
 > 2. It always has your best interest at heart.
 
+The Gift of Fear by Gavin de Becker
+
 ## Andrea Dworkin
 
 > When we women find the courage to defend ourselves, to take a stand against brutality and abuse, we are violating every notion of womanhood we have ever been taught. The way to freedom for women is bound to be torturous for that reason alone.
